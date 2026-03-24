@@ -1,2 +1,10 @@
 # notifications-service
-Email, SMS, and push notification delivery
+
+Multi-channel notification delivery
+
+## Getting Started
+
+```bash
+npm install
+npm run build
+```
